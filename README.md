@@ -8,6 +8,7 @@ I'm a passionate developer with a strong interest in web development and open-so
 - Web development
 - Creating engaging and responsive websites
 - PHP and JavaScript
+- MySQL databases
 - Open-source projects
 - Frontend and backend technologies
 
@@ -29,7 +30,7 @@ I'm a passionate developer with a strong interest in web development and open-so
 🌐 I specialize in:
 - Designing and developing websites with HTML, CSS, and JavaScript
 - Creating responsive and user-friendly interfaces
-- Integrating backend functionality using PHP
+- Integrating backend functionality using PHP and MySQL databases
 
 ## Contact
 
